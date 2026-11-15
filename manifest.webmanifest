@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Taş Kâğıt Makas · El Düellosu",
+  "short_name": "El Düellosu",
+  "description": "Arkadaşınla üç canlık, canlı taş kâğıt makas düellosu.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#faf9f6",
+  "icons": [
+    {"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
